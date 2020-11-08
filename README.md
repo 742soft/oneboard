@@ -1,4 +1,4 @@
-# oneboard
+# OneBoard
 
 oneboard는 sir.kr의 laravel 공개 게시판인 laonboard를 기반으로 합니다.
 
