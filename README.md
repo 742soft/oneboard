@@ -7,8 +7,8 @@ oneboard는 sir.kr의 laravel 공개 게시판인 laonboard를 기반으로 합�
 - tailwind : https://tailwindcss.com/
 - vue.js : https://v3.vuejs.org/
 - stack
+    . nginx + mariadb + php + centos
     . https://www.php79.com/
-    . www
 
 - demo : http://demo.oneboard.co.kr
 - info : http://www.oneboard.co.kr
